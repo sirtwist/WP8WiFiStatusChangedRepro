@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WirelessRepro", "WirelessRepro\WirelessRepro.csproj", "{817AE88B-CA55-4FBA-B78F-4B7E20003442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Background", "Background\Background.csproj", "{2BD9D084-F60E-4107-9229-68F907BE2700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817AE88B-CA55-4FBA-B78F-4B7E20003442}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2BD9D084-F60E-4107-9229-68F907BE2700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD9D084-F60E-4107-9229-68F907BE2700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD9D084-F60E-4107-9229-68F907BE2700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD9D084-F60E-4107-9229-68F907BE2700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
